@@ -43,6 +43,11 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/tyson-foods/
+    name: Tyson Foods
+    x-relationship: acquired
+    x-evidence: "The company was acquired by Tyson Foods in 2014 and its operations have been integrated into the Tyson Foods organization."
   - type: LinkedIn
     url: https://www.linkedin.com/company/hillshire-brands
   - type: Website
