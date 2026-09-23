@@ -1,7 +1,9 @@
 ---
 title: Sara Lee names meats company Hillshire Brands
 url: https://finance.yahoo.com/news/sara-lee-names-meats-company-140050863.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hillshire Brands" press release artificial intelligence'
 position: 4
 source: serpapi-google

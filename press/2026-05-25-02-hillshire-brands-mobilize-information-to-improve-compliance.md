@@ -1,7 +1,9 @@
 ---
 title: Hillshire Brands Mobilize Information to Improve Compliance
 url: https://www.rockwellautomation.com/en-in/company/news/case-studies/hillshire-brands-mobilize-information-to-improve-compliance.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hillshire Brands" press release artificial intelligence'
 position: 2
 source: serpapi-google

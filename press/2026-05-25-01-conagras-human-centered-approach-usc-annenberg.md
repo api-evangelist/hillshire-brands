@@ -1,7 +1,9 @@
 ---
 title: Conagra's human-centered approach | USC Annenberg
 url: https://annenberg.usc.edu/research/center-public-relations/usc-annenberg-relevance-report/conagras-human-centered-approach
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hillshire Brands" press release artificial intelligence'
 position: 1
 source: serpapi-google
